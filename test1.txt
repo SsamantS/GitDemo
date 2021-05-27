@@ -5,3 +5,4 @@
 05. Response from Remote Repository to " Start again from starting"
 06. Lets see" If I delete the .txt file from Local" Do the pull command will create the file in Local Repository?
 07. Yes, it creates the same file after Fetch-Pull command
+08. Modification on Local
